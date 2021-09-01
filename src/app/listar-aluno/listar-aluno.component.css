@@ -1,0 +1,9 @@
+/* Vinicius Cerosi SC3005453 */
+table, th, td {
+    border: 1px solid black;
+}
+
+.titleRow {
+    font-weight: bold;
+    text-align: center;
+}
